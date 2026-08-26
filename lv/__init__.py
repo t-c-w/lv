@@ -1,6 +1,6 @@
 """Utils to slurp stuff"""
 
-__author__ = 'thorwhalen'
+__author__ = 'tcw'
 
 
 def slurp_with_login_and_pwd():
